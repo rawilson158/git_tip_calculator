@@ -2,7 +2,7 @@
 
 This is a simple restaurant tip calculator for patrons to use in an effort to simplify paying a food bill. The calculator will allow an individual to enter random values to arrive at a total food cost when dinning out. Furthermore, this application aids in splitting the bill evenly among the party.
 
-The tip calculator uses four pieces of key information from a users input which are listed below:
+### The tip calculator uses four pieces of key information from a users input which are listed below:
 
 1. Cost of Food
 2. Tip Percentage
